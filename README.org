@@ -3,4 +3,5 @@
 #+Author: VastlyAdequate
 
 * About
-VastCraft is a Minecraft modpack for Neoforge on version 1.21.1.
+VastCraft is a Minecraft modpack for Neoforge on version 1.21.1. This repository contains
+the modpack definition in packwiz format.

@@ -1,0 +1,13 @@
+name = "VastCraft"
+author = "vastlyadequate"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ddb105dfdc9206adb531d00095827d8b38241f2fa014ed0d5fddd019a28226e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
