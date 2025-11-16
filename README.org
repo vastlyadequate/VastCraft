@@ -1,0 +1,6 @@
+#+Title: VastCraft README
+#+Desciption: Information about the VastCraft Project
+#+Author: VastlyAdequate
+
+* About
+VastCraft is a Minecraft modpack for Neoforge on version 1.21.1.
