@@ -29,6 +29,14 @@ file = "config/jade/sort-order.json"
 hash = "7a25cd0e90d60b83d89276e9d40ead8c676444ff3e14c570c47cb7e0d8c2eb6e"
 
 [[files]]
+file = "config/mixed_litter-startup.toml"
+hash = "d9a3c8cd3176beaaa1e1a1639de262f5aa520036ff76d1716156aa8c3da0f864"
+
+[[files]]
+file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
+hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -36,6 +44,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
@@ -101,6 +114,16 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "63d99dca870f2a597fcdb277180bd705e8f64a3c4bfd11f2c69c43880f5fbf7f"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
