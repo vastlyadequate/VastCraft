@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "acf016d1eebbdf21a2244ff6ab1974cc4f154c7ef77498fee771cb69d92ace3c"
+
+[[files]]
 file = "config/emi.css"
 hash = "2087f452a126df40165b990785ddf45735350f0557ecc6e3e55a4b3c32a69af5"
 
@@ -30,15 +34,29 @@ hash = "7a25cd0e90d60b83d89276e9d40ead8c676444ff3e14c570c47cb7e0d8c2eb6e"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
-hash = "d9a3c8cd3176beaaa1e1a1639de262f5aa520036ff76d1716156aa8c3da0f864"
+hash = "1a89ce14dcee5c7f6a8dc33fba96bf2571107cd53e80a047cd38b5fefb79fa5e"
 
 [[files]]
 file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
 hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
 
 [[files]]
+file = "config/structurify.json"
+hash = "c2317973c54bc5bbec12042ef738d73cdd110d26338a36f7a7ce28e3a882ba34"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
 metafile = true
 
 [[files]]
@@ -49,6 +67,21 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "74614f1dfda229e1c4239a8f21fcb0069186642d0a928978bf354df4126ed26f"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.pw.toml"
+hash = "3a59ca21bc4e6e179ce53231b0a7bb56a2ca5f8304500f9ee202e476b1a4e719"
 metafile = true
 
 [[files]]
@@ -72,8 +105,18 @@ hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
 metafile = true
 
 [[files]]
+file = "mods/environmental.pw.toml"
+hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/greeneries.pw.toml"
+hash = "ade634dda2416573dee16776eecaafd1615204dc6ff84f7b8ca02590abefb910"
 metafile = true
 
 [[files]]
@@ -139,6 +182,26 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "9410f7355aad5a56812eb6b1bf8bc3b52d8e882255a91c9d795dda02aab38b26"
+metafile = true
+
+[[files]]
+file = "mods/sweety-garden.pw.toml"
+hash = "e2893ed7fe934d545b80c54da0cdc24bc887cb72ba78445c197738376af165eb"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
 
 [[files]]
