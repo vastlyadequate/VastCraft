@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Modpack Tweaks"
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "greeneries", 
+				"path": "worldgen/placed_feature/patch_cattail.json"
+			}
+		]
+	}
+}

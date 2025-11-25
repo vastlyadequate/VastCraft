@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Vastcraft Modpack Tweaks",
+    "filter": {
+      "block": [
+        {
+	  "namespace": "nomansland",
+	  "path":".*structure.*"
+	}
+      ]
+    }
+  }
+}

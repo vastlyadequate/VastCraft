@@ -29,13 +29,94 @@ file = "config/jade/sort-order.json"
 hash = "7a25cd0e90d60b83d89276e9d40ead8c676444ff3e14c570c47cb7e0d8c2eb6e"
 
 [[files]]
+file = "config/mixed_litter-startup.toml"
+hash = "1a89ce14dcee5c7f6a8dc33fba96bf2571107cd53e80a047cd38b5fefb79fa5e"
+
+[[files]]
+file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
+hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d07e69d5443a822742743b33546b6f8fa90224caa4e9d6b5d14445a7070215ce"
+
+[[files]]
+file = "config/structurify.json"
+hash = "3bc3df75eec5682481b89e1ead3e61aa1ce02daeca0f8bd3efdfaa049bcd5adc"
+
+[[files]]
+file = "datapacks/VastCraft/data/c/tags/blocks/hidden_from_recipe_viewers.json"
+hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
+
+[[files]]
+file = "datapacks/VastCraft/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/patch_cattail.json"
+hash = "1faa51063ed40d0680d6d8a76c0f33ef5d9592b85325009a5b40ef4f40bcfde9"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond.json"
+hash = "c72d6bf3855e478fe8c61070bfed6a978d55f560dbb089933dbefdb5b1f1623f"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_gravel_shore.json"
+hash = "e49ea1bca4cd78301ec950b7e5662c2ee47f15098a173928fe5c7e9efb752d31"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_snowy.json"
+hash = "2bcf556ea51accd6483e6277a4e1392457eed839f109a81fafde8791b09abda0"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_swamp.json"
+hash = "589a25f799daae3a9922436b565bd7d24b10ce06f53fb619e364715aa61fa0c8"
+
+[[files]]
+file = "datapacks/VastCraft/data/upgrade_aquatic/recipe/beachgrass_thatch.json"
+hash = "005e0ae471c57a43a6546d44a69f1ad9931dcba4f82fcf2bfaedf643121520a9"
+
+[[files]]
+file = "datapacks/VastCraft/data/upgrade_aquatic/tags/worldgen/biome/has_feature/beachgrass.json"
+hash = "cfe1245e6840ce227c7028a966980385f88f7fc6d7a473c547c1250993df5c0f"
+
+[[files]]
+file = "datapacks/VastCraft/pack.mcmeta"
+hash = "6476b58ddf2b8ec2190753b148ed8c16afeb387f5d120108ef1ad171a916daa2"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.pw.toml"
+hash = "3a59ca21bc4e6e179ce53231b0a7bb56a2ca5f8304500f9ee202e476b1a4e719"
 metafile = true
 
 [[files]]
@@ -59,8 +140,18 @@ hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
 metafile = true
 
 [[files]]
+file = "mods/environmental.pw.toml"
+hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/greeneries.pw.toml"
+hash = "ade634dda2416573dee16776eecaafd1615204dc6ff84f7b8ca02590abefb910"
 metafile = true
 
 [[files]]
@@ -104,6 +195,16 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "63d99dca870f2a597fcdb277180bd705e8f64a3c4bfd11f2c69c43880f5fbf7f"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -119,6 +220,26 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "9410f7355aad5a56812eb6b1bf8bc3b52d8e882255a91c9d795dda02aab38b26"
+metafile = true
+
+[[files]]
+file = "mods/sweety-garden.pw.toml"
+hash = "e2893ed7fe934d545b80c54da0cdc24bc887cb72ba78445c197738376af165eb"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
@@ -127,3 +248,23 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
+hash = "88cb7daee3e88b3b0df689aa100624c4e2a7a30c8e47491e4ae68bd99f0eaba0"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/greeneries/lang/en_us.json"
+hash = "8eb176cffe477d792fd8b22b486c4a743a3210e67d7ba232190d597a5bba0505"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/nomansland/lang/en_us.json"
+hash = "9b959daa5bb051b731c7c94a475a0e19fe78cff95ec77813cc5ac29cb58dff74"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/vastcraft/lang/en_us.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/VastCraft/pack.mcmeta"
+hash = "3ef2b65892a88eb5e94f9f4f31893c96a000a2f05043b6e21dce3e4ec5a52fde"
