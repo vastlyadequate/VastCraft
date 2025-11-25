@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/biome_replacer.properties"
-hash = "acf016d1eebbdf21a2244ff6ab1974cc4f154c7ef77498fee771cb69d92ace3c"
-
-[[files]]
 file = "config/emi.css"
 hash = "2087f452a126df40165b990785ddf45735350f0557ecc6e3e55a4b3c32a69af5"
 
@@ -41,8 +37,52 @@ file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
 hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d07e69d5443a822742743b33546b6f8fa90224caa4e9d6b5d14445a7070215ce"
+
+[[files]]
 file = "config/structurify.json"
-hash = "c2317973c54bc5bbec12042ef738d73cdd110d26338a36f7a7ce28e3a882ba34"
+hash = "3bc3df75eec5682481b89e1ead3e61aa1ce02daeca0f8bd3efdfaa049bcd5adc"
+
+[[files]]
+file = "datapacks/VastCraft/data/c/tags/blocks/hidden_from_recipe_viewers.json"
+hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
+
+[[files]]
+file = "datapacks/VastCraft/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/patch_cattail.json"
+hash = "1faa51063ed40d0680d6d8a76c0f33ef5d9592b85325009a5b40ef4f40bcfde9"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond.json"
+hash = "c72d6bf3855e478fe8c61070bfed6a978d55f560dbb089933dbefdb5b1f1623f"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_gravel_shore.json"
+hash = "e49ea1bca4cd78301ec950b7e5662c2ee47f15098a173928fe5c7e9efb752d31"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_snowy.json"
+hash = "2bcf556ea51accd6483e6277a4e1392457eed839f109a81fafde8791b09abda0"
+
+[[files]]
+file = "datapacks/VastCraft/data/nomansland/worldgen/configured_feature/pond_swamp.json"
+hash = "589a25f799daae3a9922436b565bd7d24b10ce06f53fb619e364715aa61fa0c8"
+
+[[files]]
+file = "datapacks/VastCraft/data/upgrade_aquatic/recipe/beachgrass_thatch.json"
+hash = "005e0ae471c57a43a6546d44a69f1ad9931dcba4f82fcf2bfaedf643121520a9"
+
+[[files]]
+file = "datapacks/VastCraft/data/upgrade_aquatic/tags/worldgen/biome/has_feature/beachgrass.json"
+hash = "cfe1245e6840ce227c7028a966980385f88f7fc6d7a473c547c1250993df5c0f"
+
+[[files]]
+file = "datapacks/VastCraft/pack.mcmeta"
+hash = "6476b58ddf2b8ec2190753b148ed8c16afeb387f5d120108ef1ad171a916daa2"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -67,11 +107,6 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
-metafile = true
-
-[[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "74614f1dfda229e1c4239a8f21fcb0069186642d0a928978bf354df4126ed26f"
 metafile = true
 
 [[files]]
@@ -213,3 +248,23 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
+hash = "88cb7daee3e88b3b0df689aa100624c4e2a7a30c8e47491e4ae68bd99f0eaba0"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/greeneries/lang/en_us.json"
+hash = "8eb176cffe477d792fd8b22b486c4a743a3210e67d7ba232190d597a5bba0505"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/nomansland/lang/en_us.json"
+hash = "9b959daa5bb051b731c7c94a475a0e19fe78cff95ec77813cc5ac29cb58dff74"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/vastcraft/lang/en_us.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/VastCraft/pack.mcmeta"
+hash = "3ef2b65892a88eb5e94f9f4f31893c96a000a2f05043b6e21dce3e4ec5a52fde"
