@@ -21,14 +21,14 @@ The list below only includes explicitly installed mods, not dependencies such as
 - More Culling
   
 ** UI
-** Information
+*** Information
 - Jade
 - AppleSkin
 - EMI
 - Inline Tooltips
 - Item Descriptions
 
-** Misc
+*** Misc
 - Better Advancements
 - Controlling
 - Reese's Sodium Options
