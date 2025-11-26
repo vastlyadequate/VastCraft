@@ -38,7 +38,7 @@ hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d07e69d5443a822742743b33546b6f8fa90224caa4e9d6b5d14445a7070215ce"
+hash = "eb2ec2d615e32658e1ea20cf869c096f843e62200c18255365cc6f0e88bd2382"
 
 [[files]]
 file = "config/structurify.json"
@@ -308,3 +308,18 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "resourcepacks/VastCraft/pack.mcmeta"
 hash = "3ef2b65892a88eb5e94f9f4f31893c96a000a2f05043b6e21dce3e4ec5a52fde"
+
+[[files]]
+file = "resourcepacks/dark-coffe-gui.pw.toml"
+hash = "3ee552c5f5956a26415db245c69dc61b2ba450a3b12a29885f5f46b848edb852"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modded-coffee-gui.pw.toml"
+hash = "b2d68ce34cc5f5816e829eb25d84a995b86d33487f052a26becfc16691dad625"
+metafile = true
+
+[[files]]
+file = "resourcepacks/swzos-font!.pw.toml"
+hash = "f97c8d3a83df35f7908a6e6a93b56c934708c6d7abbccef24fd8610e5429ecef"
+metafile = true

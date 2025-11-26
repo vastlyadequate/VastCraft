@@ -1,0 +1,13 @@
+name = "Modded Coffee GUI"
+filename = "ModdedCoffeeGUI_Release_v1.0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5mtpS2g/versions/D1PmXk2P/ModdedCoffeeGUI_Release_v1.0.3.zip"
+hash-format = "sha512"
+hash = "65dbe11c8181119d703ccefaa3540b9178c797f5663fbc25c2088e1e30070790801f601f9664f76cd22d74dcb60e96df821f602f65483f27007d18366db67722"
+
+[update]
+[update.modrinth]
+mod-id = "k5mtpS2g"
+version = "D1PmXk2P"

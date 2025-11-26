@@ -1,0 +1,13 @@
+name = "Dark Coffe GUI"
+filename = "CoffeeGUI_1.21.10_release_v2.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KhALBWoN/versions/vLqzthb1/CoffeeGUI_1.21.10_release_v2.0.2.zip"
+hash-format = "sha512"
+hash = "3445c0b247e0e6ea859011d61a6de181ea8843e97188408068b70dbfcf052032d587583e4e867b49b6a9eee21a184c8262f5f74e1b008e136b35e47d79454c9a"
+
+[update]
+[update.modrinth]
+mod-id = "KhALBWoN"
+version = "vLqzthb1"
