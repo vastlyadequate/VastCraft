@@ -130,6 +130,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
+metafile = true
+
+[[files]]
 file = "mods/darker-depths.pw.toml"
 hash = "b1555c1d90803da0cb8fb585b12a46ba41324f43fd8bc7681843ea8ad1170b81"
 metafile = true
@@ -195,6 +200,11 @@ hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "63d99dca870f2a597fcdb277180bd705e8f64a3c4bfd11f2c69c43880f5fbf7f"
+metafile = true
+
+[[files]]
+file = "mods/oreganized.pw.toml"
+hash = "c4947eadbd3800f3923cfc52e6f123bd11864fcb4dd5cd6c1b1357852368db19"
 metafile = true
 
 [[files]]

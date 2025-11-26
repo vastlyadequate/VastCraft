@@ -1,0 +1,13 @@
+name = "Oreganized"
+filename = "Oreganized 1.21.1-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2FJutzEL/versions/x7FXb3Qc/Oreganized%201.21.1-5.1.1.jar"
+hash-format = "sha512"
+hash = "3f89694857bf986457b6215eef1ed6d902fe205efbdc9e57bbfe5f943e8718923f2835e9a2de264de6a7dafbaed44ebe0343e2c4535447f75c569b7beec9d7a4"
+
+[update]
+[update.modrinth]
+mod-id = "2FJutzEL"
+version = "x7FXb3Qc"
