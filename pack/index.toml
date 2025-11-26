@@ -130,6 +130,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/darker-depths.pw.toml"
+hash = "b1555c1d90803da0cb8fb585b12a46ba41324f43fd8bc7681843ea8ad1170b81"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -147,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "2b386a4a002dd95c2af358a1f6bba3e7dd8101a65650cb790a74e473ff89875d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
@@ -205,6 +220,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -232,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
 metafile = true
 
 [[files]]
