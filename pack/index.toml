@@ -85,6 +85,11 @@ file = "datapacks/VastCraft/pack.mcmeta"
 hash = "6476b58ddf2b8ec2190753b148ed8c16afeb387f5d120108ef1ad171a916daa2"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "de8c3546c0385ff9bdf997d3137b7ed19da929e2931bdca5d287a269f2c343a5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "ef7c9b68b65e7baab19dc84903f068de6714e6f306052940f53c747743d3025e"
 metafile = true
 
 [[files]]
@@ -152,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
@@ -220,6 +235,11 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "63d99dca870f2a597fcdb277180bd705e8f64a3c4bfd11f2c69c43880f5fbf7f"
 metafile = true
@@ -227,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/oreganized.pw.toml"
 hash = "c4947eadbd3800f3923cfc52e6f123bd11864fcb4dd5cd6c1b1357852368db19"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "836ffb879311a16e620c05796513395a3b9009c7d27d84c5938f03add120bec6"
 metafile = true
 
 [[files]]
@@ -265,6 +290,11 @@ hash = "e2893ed7fe934d545b80c54da0cdc24bc887cb72ba78445c197738376af165eb"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "1cc541860a49f9ab28fddc9ad00c824799ffede2f7a68dc94efe63330a574f20"
+metafile = true
+
+[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
 metafile = true
@@ -272,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
+file = "mods/vanillacookbook.pw.toml"
+hash = "6cb2859a7ec90d75b493f6c21a57c1fe7ae79fd222dd837cf5898f50e30fe8b7"
 metafile = true
 
 [[files]]
