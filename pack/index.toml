@@ -90,6 +90,16 @@ hash = "de8c3546c0385ff9bdf997d3137b7ed19da929e2931bdca5d287a269f2c343a5"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -130,6 +140,11 @@ hash = "3a59ca21bc4e6e179ce53231b0a7bb56a2ca5f8304500f9ee202e476b1a4e719"
 metafile = true
 
 [[files]]
+file = "mods/clayworks.pw.toml"
+hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -162,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "6fa96954852997f4d6f8eb0fba02143dd1030f6183cf961dea0eeaa830f71ef1"
 metafile = true
 
 [[files]]
@@ -225,8 +245,18 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
 metafile = true
 
 [[files]]
@@ -280,8 +310,23 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "0f74c0482d37880d5efbf6faca515874edba20031438e8e69851741d4a1b242f"
+metafile = true
+
+[[files]]
 file = "mods/structurify.pw.toml"
 hash = "9410f7355aad5a56812eb6b1bf8bc3b52d8e882255a91c9d795dda02aab38b26"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "db5afd2bc9555691438d5860ab996fea6d635d5eb6d0d6d4580964b799c43e1f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
 metafile = true
 
 [[files]]
@@ -307,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/vanillacookbook.pw.toml"
 hash = "6cb2859a7ec90d75b493f6c21a57c1fe7ae79fd222dd837cf5898f50e30fe8b7"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
 
 [[files]]
