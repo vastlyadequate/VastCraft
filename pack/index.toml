@@ -145,6 +145,11 @@ hash = "3a59ca21bc4e6e179ce53231b0a7bb56a2ca5f8304500f9ee202e476b1a4e719"
 metafile = true
 
 [[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "76b420800e33a55559a680802902edbf11e26a2c8420b3c1cbf63bdf920d8db3"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/greeneries.pw.toml"
 hash = "ade634dda2416573dee16776eecaafd1615204dc6ff84f7b8ca02590abefb910"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "c973936c8b9750daf0296baa21befb407640a186ec4eb433be840d1dddccc5a3"
 metafile = true
 
 [[files]]
@@ -320,6 +330,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "4adae9f3dde808548906bc5b01c2b103145641c892095c92300c3777fbcead7a"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -327,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
 metafile = true
 
 [[files]]
