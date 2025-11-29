@@ -240,6 +240,11 @@ hash = "ade634dda2416573dee16776eecaafd1615204dc6ff84f7b8ca02590abefb910"
 metafile = true
 
 [[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "3daeddc367593d77b7087b1b669cf427037deea168d2420fd458a4eff8229cc5"
+metafile = true
+
+[[files]]
 file = "mods/horseman.pw.toml"
 hash = "c973936c8b9750daf0296baa21befb407640a186ec4eb433be840d1dddccc5a3"
 metafile = true
@@ -342,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "dabf477dc67da8c7d3e8ba42c2b504f55ec5df4e2ef61f7f52cb243ee083f1d1"
 metafile = true
 
 [[files]]
