@@ -190,6 +190,21 @@ hash = "6fa96954852997f4d6f8eb0fba02143dd1030f6183cf961dea0eeaa830f71ef1"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "88afea11493965d50807089deb03f489fa176cc47e670833971481dfd6e18fb9"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
