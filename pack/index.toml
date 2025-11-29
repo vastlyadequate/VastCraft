@@ -400,6 +400,11 @@ hash = "6cb2859a7ec90d75b493f6c21a57c1fe7ae79fd222dd837cf5898f50e30fe8b7"
 metafile = true
 
 [[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "7c1f4d8a18197e03e11c68dd2b10b97eb40444eb4d53121fa4c3d0686773f58c"
+metafile = true
+
+[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
