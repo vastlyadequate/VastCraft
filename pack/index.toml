@@ -105,6 +105,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/archeologicalmod.pw.toml"
+hash = "d6cd3dae3a69ab32c8e1850b519343fb287ec93e7aa8c5fa7661e39777059922"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
 metafile = true

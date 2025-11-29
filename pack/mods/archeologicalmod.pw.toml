@@ -1,0 +1,13 @@
+name = "Archeological"
+filename = "Archeological-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z24qKJXQ/versions/nqMF3380/Archeological-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "8d22a020183532bae0e75d392b0014ab24e68b9447bbfee18c2348e10b8a0890fbd96189bbb360f88049783c93f6526bb4b99722f2ac0360fade7d81fa1560b5"
+
+[update]
+[update.modrinth]
+mod-id = "z24qKJXQ"
+version = "nqMF3380"
