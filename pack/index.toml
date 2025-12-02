@@ -235,6 +235,11 @@ hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "f4b1b532d8ea3fc538e8600072efe985635bd227772878a96a9bb622ca1bf9ad"
+metafile = true
+
+[[files]]
 file = "mods/greeneries.pw.toml"
 hash = "ade634dda2416573dee16776eecaafd1615204dc6ff84f7b8ca02590abefb910"
 metafile = true
@@ -242,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "3daeddc367593d77b7087b1b669cf427037deea168d2420fd458a4eff8229cc5"
+metafile = true
+
+[[files]]
+file = "mods/heartstone.pw.toml"
+hash = "d3da476fa281a1999b79fa6155929f762cca6c865e469d9c8bda4c3725d7a56d"
 metafile = true
 
 [[files]]
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "35060e4af7f66f5eac84b4b8be30bbe3d7b5e1e6c1c598b129bb8bc33e2d5aaa"
 metafile = true
 
 [[files]]
@@ -347,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "831caaf891645de78628c8c84c3402f99b997cfabcde817b047b9d41840401f0"
 metafile = true
 
 [[files]]
