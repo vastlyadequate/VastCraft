@@ -180,6 +180,11 @@ hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "61e80b0de7d4991cb6ebae3c826d4b51a3e78e18c35f4730e9741603ab7cb18a"
+metafile = true
+
+[[files]]
 file = "mods/darker-depths.pw.toml"
 hash = "b1555c1d90803da0cb8fb585b12a46ba41324f43fd8bc7681843ea8ad1170b81"
 metafile = true
