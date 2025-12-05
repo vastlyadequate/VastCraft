@@ -479,6 +479,34 @@ file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
 hash = "88cb7daee3e88b3b0df689aa100624c4e2a7a30c8e47491e4ae68bd99f0eaba0"
 
 [[files]]
+file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/backpack_slot.png"
+hash = "f833e9c0cc9e0698ecb557bc2521bcde2c94f080a633af597e56385e96fcf984"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/slots/back_slot.png"
+hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/slots/util_slot.png"
+hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/create/textures/gui/jei/widgets.png"
+hash = "8aa6477f06d4338b7ee5f89f86a2f1077fd9d06d17ac8b4dc25104a45a3d67a0"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/cooking_pot.png"
+hash = "d50c63f0a4410e51669103e75bb1c9651362f5b5330ca4c1a5312032e9c88958"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/jei/cutting_board.png"
+hash = "bbee2f9fb327b965b8c0c0b64961f55a4cc3d59dc83976ed6cb49881ef93f14b"
+
+[[files]]
+file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/jei/decomposition.png"
+hash = "0a880152bd16b6217b8795bf65de8fbc344373c034fa2705493c6b045b611db2"
+
+[[files]]
 file = "resourcepacks/VastCraft/assets/greeneries/lang/en_us.json"
 hash = "8eb176cffe477d792fd8b22b486c4a743a3210e67d7ba232190d597a5bba0505"
 
