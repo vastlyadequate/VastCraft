@@ -125,6 +125,11 @@ hash = "a9769b168381a11a916f2faca33a4a4c6bef21e3fc3f637a8091122e64d3a4d3"
 metafile = true
 
 [[files]]
+file = "mods/bens-sharks.pw.toml"
+hash = "2380138869c88a71a98d712922f98d182780cfb48a8947b6dad4349928aa8991"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
@@ -491,6 +496,10 @@ file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/slots/util_sl
 hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
 
 [[files]]
+file = "resourcepacks/VastCraft/assets/brewinandchewin/textures/gui/keg.png"
+hash = "9997f29ba633852c90fb9b06b82204e3e0498ee6a44e93930059298fa4cc6753"
+
+[[files]]
 file = "resourcepacks/VastCraft/assets/create/textures/gui/jei/widgets.png"
 hash = "8aa6477f06d4338b7ee5f89f86a2f1077fd9d06d17ac8b4dc25104a45a3d67a0"
 
@@ -504,7 +513,7 @@ hash = "bbee2f9fb327b965b8c0c0b64961f55a4cc3d59dc83976ed6cb49881ef93f14b"
 
 [[files]]
 file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/jei/decomposition.png"
-hash = "0a880152bd16b6217b8795bf65de8fbc344373c034fa2705493c6b045b611db2"
+hash = "51dc6cbb27f8a5bccec74424f5f781dcfc836d7211ec59ffa1f36391a457c8ab"
 
 [[files]]
 file = "resourcepacks/VastCraft/assets/greeneries/lang/en_us.json"
