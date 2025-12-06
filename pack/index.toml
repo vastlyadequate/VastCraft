@@ -195,6 +195,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
 metafile = true
@@ -345,6 +350,11 @@ hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
 metafile = true
 
 [[files]]
+file = "mods/nightosphere.pw.toml"
+hash = "efab624bab38dcbf516cf364615a65f063e047d90015c878d4d6b9494e4c77b3"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "63d99dca870f2a597fcdb277180bd705e8f64a3c4bfd11f2c69c43880f5fbf7f"
 metafile = true
@@ -437,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/toastbegone.pw.toml"
 hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
+metafile = true
+
+[[files]]
+file = "mods/trimmed.pw.toml"
+hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
 metafile = true
 
 [[files]]
