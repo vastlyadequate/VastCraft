@@ -190,6 +190,16 @@ hash = "b1555c1d90803da0cb8fb585b12a46ba41324f43fd8bc7681843ea8ad1170b81"
 metafile = true
 
 [[files]]
+file = "mods/dye-depot.pw.toml"
+hash = "14fc348d2320101d473b004ac2fd0e02d2ea266cbb24d7d26d8fccddcf64007a"
+metafile = true
+
+[[files]]
+file = "mods/dye-the-world.pw.toml"
+hash = "1ff52c3726f6e2eac251f6cfa2bb103ae410ffe1137465900b82b8584ae15b82"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -307,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
