@@ -250,6 +250,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "2b386a4a002dd95c2af358a1f6bba3e7dd8101a65650cb790a74e473ff89875d"
 metafile = true
@@ -360,6 +365,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
 metafile = true
@@ -430,6 +440,16 @@ hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "bb2880163c874a52f90f0abe23c22ac3ed27ef867254e6de6ec5c65360355860"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "6492fb8f56b6196be9dc7d84495ba301039c95a42221c4a71f346f5a42a7fd0a"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "0f74c0482d37880d5efbf6faca515874edba20031438e8e69851741d4a1b242f"
 metafile = true
@@ -437,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/structurify.pw.toml"
 hash = "9410f7355aad5a56812eb6b1bf8bc3b52d8e882255a91c9d795dda02aab38b26"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "ebbb8c25c8741d0bbe4aa09c893e1f34228e4e50f92e7ae829a4dbbf621d9045"
 metafile = true
 
 [[files]]
