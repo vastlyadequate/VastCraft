@@ -30,7 +30,7 @@ hash = "7a25cd0e90d60b83d89276e9d40ead8c676444ff3e14c570c47cb7e0d8c2eb6e"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
-hash = "1a89ce14dcee5c7f6a8dc33fba96bf2571107cd53e80a047cd38b5fefb79fa5e"
+hash = "b2ef8dbf05cba2977651a34ba34ac850edb90615a52cc3ee1aeda6b93ab0d8d6"
 
 [[files]]
 file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
@@ -49,11 +49,15 @@ file = "datapacks/VastCraft/data/autumnity/blueprint/modded_biome_slices/autumn.
 hash = "15e01dea1d1b7d267ad3eaab825a897185546a988239f4d9e23eed3652242bab"
 
 [[files]]
-file = "datapacks/VastCraft/data/c/tags/blocks/hidden_from_recipe_viewers.json"
+file = "datapacks/VastCraft/data/autumnity/tags/worldgen/biome/is_autumnal.json"
+hash = "2aedfbf9a4437655d3ba4e20fb32e29ff777948bbb7e91ef4c309410340b7afb"
+
+[[files]]
+file = "datapacks/VastCraft/data/c/tags/hidden_from_recipe_viewers.json"
 hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
 
 [[files]]
-file = "datapacks/VastCraft/data/c/tags/items/hidden_from_recipe_viewers.json"
+file = "datapacks/VastCraft/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "37e3404e636d1d5dad65420acf352fc065ee55b497239aaa8c20aae016add8ff"
 
 [[files]]
@@ -126,11 +130,6 @@ metafile = true
 [[files]]
 file = "mods/autumnity.pw.toml"
 hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
-metafile = true
-
-[[files]]
-file = "mods/beans-backpacks-3.pw.toml"
-hash = "a9769b168381a11a916f2faca33a4a4c6bef21e3fc3f637a8091122e64d3a4d3"
 metafile = true
 
 [[files]]
@@ -434,6 +433,11 @@ hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/recall-potion-neoforge.pw.toml"
 hash = "13b973a58b94b7369969d764438b6078ffb5ad7fda713907ef3296d42303f649"
 metafile = true
@@ -471,6 +475,16 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8ed3c58f23d9255343a590b90e1216ac58142b920c9bffdd14c7fdc32e3ee002"
 metafile = true
 
 [[files]]
@@ -572,10 +586,6 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
-
-[[files]]
-file = "resourcepacks/RowanDynamicSurroundings.zip"
-hash = "542091d322970833a00b21c9dff1c231debf3d28770e8a1a89c6de898f11ce8a"
 
 [[files]]
 file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
