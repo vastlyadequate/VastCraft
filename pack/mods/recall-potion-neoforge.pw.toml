@@ -1,0 +1,13 @@
+name = "Recall Potion"
+filename = "recall_potion-1.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ei9MmpRg/versions/Svu016ob/recall_potion-1.4.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "571629b8708fd8feda4e6164f484e7e624284f64ae07a2ba43871af86ab3930d7013324dd66fa056c65a6523a47e5dfd2090d9488258a8888d9e18838bd173c4"
+
+[update]
+[update.modrinth]
+mod-id = "Ei9MmpRg"
+version = "Svu016ob"

@@ -38,11 +38,15 @@ hash = "018ec7fb619e1773ab0d46fde7ba98459307fb19bcb62a51309b5c59b4d2fcd8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "e341dff38287abd2111550eb95a3f869f1b23ef63f47dad5a164c1479cff37c2"
+hash = "bead8a1a1cb87b87bc89f9357d68b3feae7c3a5633fc0e6d5bb2a55ae7754e6e"
 
 [[files]]
 file = "config/structurify.json"
 hash = "3bc3df75eec5682481b89e1ead3e61aa1ce02daeca0f8bd3efdfaa049bcd5adc"
+
+[[files]]
+file = "datapacks/VastCraft/data/autumnity/blueprint/modded_biome_slices/autumn.json"
+hash = "15e01dea1d1b7d267ad3eaab825a897185546a988239f4d9e23eed3652242bab"
 
 [[files]]
 file = "datapacks/VastCraft/data/c/tags/blocks/hidden_from_recipe_viewers.json"
@@ -78,7 +82,7 @@ hash = "005e0ae471c57a43a6546d44a69f1ad9931dcba4f82fcf2bfaedf643121520a9"
 
 [[files]]
 file = "datapacks/VastCraft/data/upgrade_aquatic/tags/worldgen/biome/has_feature/beachgrass.json"
-hash = "cfe1245e6840ce227c7028a966980385f88f7fc6d7a473c547c1250993df5c0f"
+hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
 file = "datapacks/VastCraft/pack.mcmeta"
@@ -107,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/archeologicalmod.pw.toml"
 hash = "d6cd3dae3a69ab32c8e1850b519343fb287ec93e7aa8c5fa7661e39777059922"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -200,6 +209,11 @@ hash = "1ff52c3726f6e2eac251f6cfa2bb103ae410ffe1137465900b82b8584ae15b82"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -262,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
 metafile = true
 
 [[files]]
@@ -335,6 +354,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+metafile = true
+
+[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
 metafile = true
@@ -395,6 +419,11 @@ hash = "836ffb879311a16e620c05796513395a3b9009c7d27d84c5938f03add120bec6"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
@@ -402,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
+file = "mods/recall-potion-neoforge.pw.toml"
+hash = "13b973a58b94b7369969d764438b6078ffb5ad7fda713907ef3296d42303f649"
 metafile = true
 
 [[files]]
@@ -440,13 +474,18 @@ hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "bb2880163c874a52f90f0abe23c22ac3ed27ef867254e6de6ec5c65360355860"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "6492fb8f56b6196be9dc7d84495ba301039c95a42221c4a71f346f5a42a7fd0a"
+metafile = true
+
+[[files]]
+file = "mods/spirit-walker.pw.toml"
+hash = "6dbdbb813e334bd0bf734fc86a2c7b400c866acf0c983d9af9fc0dd7d04a7561"
 metafile = true
 
 [[files]]
@@ -535,40 +574,12 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
+file = "resourcepacks/RowanDynamicSurroundings.zip"
+hash = "542091d322970833a00b21c9dff1c231debf3d28770e8a1a89c6de898f11ce8a"
+
+[[files]]
 file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
 hash = "88cb7daee3e88b3b0df689aa100624c4e2a7a30c8e47491e4ae68bd99f0eaba0"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/backpack_slot.png"
-hash = "f833e9c0cc9e0698ecb557bc2521bcde2c94f080a633af597e56385e96fcf984"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/slots/back_slot.png"
-hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/beansbackpacks/textures/gui/slots/util_slot.png"
-hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/brewinandchewin/textures/gui/keg.png"
-hash = "9997f29ba633852c90fb9b06b82204e3e0498ee6a44e93930059298fa4cc6753"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/create/textures/gui/jei/widgets.png"
-hash = "8aa6477f06d4338b7ee5f89f86a2f1077fd9d06d17ac8b4dc25104a45a3d67a0"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/cooking_pot.png"
-hash = "d50c63f0a4410e51669103e75bb1c9651362f5b5330ca4c1a5312032e9c88958"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/jei/cutting_board.png"
-hash = "bbee2f9fb327b965b8c0c0b64961f55a4cc3d59dc83976ed6cb49881ef93f14b"
-
-[[files]]
-file = "resourcepacks/VastCraft/assets/farmersdelight/textures/gui/jei/decomposition.png"
-hash = "51dc6cbb27f8a5bccec74424f5f781dcfc836d7211ec59ffa1f36391a457c8ab"
 
 [[files]]
 file = "resourcepacks/VastCraft/assets/greeneries/lang/en_us.json"
@@ -590,6 +601,42 @@ hash = "3ef2b65892a88eb5e94f9f4f31893c96a000a2f05043b6e21dce3e4ec5a52fde"
 file = "resourcepacks/dark-coffe-gui.pw.toml"
 hash = "3ee552c5f5956a26415db245c69dc61b2ba450a3b12a29885f5f46b848edb852"
 metafile = true
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/beansbackpacks/textures/gui/backpack_slot.png"
+hash = "f833e9c0cc9e0698ecb557bc2521bcde2c94f080a633af597e56385e96fcf984"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/beansbackpacks/textures/gui/slots/back_slot.png"
+hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/beansbackpacks/textures/gui/slots/util_slot.png"
+hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/keg.png"
+hash = "9997f29ba633852c90fb9b06b82204e3e0498ee6a44e93930059298fa4cc6753"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/create/textures/gui/jei/widgets.png"
+hash = "8aa6477f06d4338b7ee5f89f86a2f1077fd9d06d17ac8b4dc25104a45a3d67a0"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/farmersdelight/textures/gui/cooking_pot.png"
+hash = "d50c63f0a4410e51669103e75bb1c9651362f5b5330ca4c1a5312032e9c88958"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/farmersdelight/textures/gui/jei/cutting_board.png"
+hash = "bbee2f9fb327b965b8c0c0b64961f55a4cc3d59dc83976ed6cb49881ef93f14b"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/farmersdelight/textures/gui/jei/decomposition.png"
+hash = "51dc6cbb27f8a5bccec74424f5f781dcfc836d7211ec59ffa1f36391a457c8ab"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/pack.mcmeta"
+hash = "60942348c8f9d780cbcdfa1ee706775344f75c3dad0728c49bd7395fd72c5317"
 
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
