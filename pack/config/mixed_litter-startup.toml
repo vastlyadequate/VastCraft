@@ -1,15 +1,15 @@
 [remodels]
 	#Config changes require a restart to take effect
 	#If the chicken remodel and texture variants are enabled
-	chickenRemodel = false
+	chickenRemodel = true
 	#Entities that should use the chicken remodel
 	chickens = ["minecraft:chicken"]
 	#If the cow remodel and texture variants are enabled
-	cowRemodel = false
+	cowRemodel = true
 	#Entities that should use the cow remodel
 	cows = ["minecraft:cow", "minecraft:mooshroom", "buzzier_bees:moobloom"]
 	#If the pig remodel and texture variants are enabled
-	pigRemodel = false
+	pigRemodel = true
 	#Entities that should use the pig remodel
 	pigs = ["minecraft:pig"]
 	#If the rabbit remodel and texture variants are enabled
