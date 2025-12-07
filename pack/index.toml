@@ -515,11 +515,6 @@ hash = "6492fb8f56b6196be9dc7d84495ba301039c95a42221c4a71f346f5a42a7fd0a"
 metafile = true
 
 [[files]]
-file = "mods/spirit-walker.pw.toml"
-hash = "6dbdbb813e334bd0bf734fc86a2c7b400c866acf0c983d9af9fc0dd7d04a7561"
-metafile = true
-
-[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "0f74c0482d37880d5efbf6faca515874edba20031438e8e69851741d4a1b242f"
 metafile = true
