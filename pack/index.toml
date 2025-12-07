@@ -41,8 +41,20 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "bead8a1a1cb87b87bc89f9357d68b3feae7c3a5633fc0e6d5bb2a55ae7754e6e"
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "9008e1b02000239b696798ca824813fcfe1ba8aca854e333a4ff830b8dc7d97c"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "a92e0c5ddd39d50a3b19b08aadfd8a7676bb6a9fdfaf1034fcffa53fee0f5fa2"
+
+[[files]]
 file = "config/structurify.json"
 hash = "3bc3df75eec5682481b89e1ead3e61aa1ce02daeca0f8bd3efdfaa049bcd5adc"
+
+[[files]]
+file = "config/tide.toml"
+hash = "fb647e6a8b157feb32c926830eef6726348f80298a87ccd7baadaca61b5dda9b"
 
 [[files]]
 file = "datapacks/VastCraft/data/autumnity/blueprint/modded_biome_slices/autumn.json"
@@ -135,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/bens-sharks.pw.toml"
 hash = "2380138869c88a71a98d712922f98d182780cfb48a8947b6dad4349928aa8991"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
 metafile = true
 
 [[files]]
@@ -625,12 +642,28 @@ file = "resourcepacks/dark-coffee-extra-compat/assets/beansbackpacks/textures/gu
 hash = "c0ade7e9fb2c6827e1812200867ff4cc6e56963d4ce6ce84ba2df33813fce692"
 
 [[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/emi/fermenting.png"
+hash = "3f1e283747fc1b8c3c345e4c5001e97dc1fa2ffe405799fac7aeb78b40fb512f"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/emi/pouring.png"
+hash = "78d0487ee123a80f7fc7f17fbf26ff1d1c1ad1ebae8d9cacf35aa04e42a071de"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/jei/cheese_ripening.png"
+hash = "0652e482ec508b068110b72f81fc37d32d3a618ed6783d443e000d372c3998a5"
+
+[[files]]
+file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/jei/keg.png"
+hash = "6018d89f2a0bb7981cda881cb44717fd607d8a9200620e1cac2d9497e238ecdf"
+
+[[files]]
 file = "resourcepacks/dark-coffee-extra-compat/assets/brewinandchewin/textures/gui/keg.png"
 hash = "9997f29ba633852c90fb9b06b82204e3e0498ee6a44e93930059298fa4cc6753"
 
 [[files]]
 file = "resourcepacks/dark-coffee-extra-compat/assets/create/textures/gui/jei/widgets.png"
-hash = "8aa6477f06d4338b7ee5f89f86a2f1077fd9d06d17ac8b4dc25104a45a3d67a0"
+hash = "c7c67f7434488261f0a8e512ec5d9718ab08a23d1c78978ec8d4817ad397f79d"
 
 [[files]]
 file = "resourcepacks/dark-coffee-extra-compat/assets/farmersdelight/textures/gui/cooking_pot.png"
@@ -661,4 +694,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/swzos-font!.pw.toml"
 hash = "f97c8d3a83df35f7908a6e6a93b56c934708c6d7abbccef24fd8610e5429ecef"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
