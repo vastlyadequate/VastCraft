@@ -1,0 +1,125 @@
+[
+  {
+    "soundEventId": "autumnity:item.armor.equip_snail",
+    "volumeScale": 101
+  },
+  {
+    "soundEventId": "create:copper_armor_equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:crow",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.blunt.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.bow.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.potion.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.shield.equip",
+    "volumeScale": 5
+  },
+  {
+    "soundEventId": "dsurround:item.sword.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.tool.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.utility.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:loon",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:owl",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:raptor",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:seagulls",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:turtledove",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:whale",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:wolf",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:woodpecker",
+    "volumeScale": 0
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:ambient.underwater.exit"
+  },
+  {
+    "block": true,
+    "soundEventId": "minecraft:block.water.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.chicken.ambient"
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:entity.chicken.egg"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.cow.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.ender_dragon.death",
+    "volumeScale": 10
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:entity.experience_orb.pickup"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.llama.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.pig.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.sheep.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.wither.death",
+    "volumeScale": 10
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.wither.spawn",
+    "volumeScale": 10
+  }
+]
