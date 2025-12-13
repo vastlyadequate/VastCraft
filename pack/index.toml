@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dsurround/soundconfig.json"
+hash = "7a0ee3e42e2d05aa59562a0ef36a2ed7b5df53bf2370d6a83c5e17d00533f119"
+
+[[files]]
 file = "config/emi.css"
 hash = "2087f452a126df40165b990785ddf45735350f0557ecc6e3e55a4b3c32a69af5"
 
@@ -57,12 +61,20 @@ file = "config/tide.toml"
 hash = "fb647e6a8b157feb32c926830eef6726348f80298a87ccd7baadaca61b5dda9b"
 
 [[files]]
-file = "datapacks/VastCraft/data/autumnity/blueprint/modded_biome_slices/autumn.json"
-hash = "15e01dea1d1b7d267ad3eaab825a897185546a988239f4d9e23eed3652242bab"
+file = "datapacks/VastCraft/data/autumnity/tags/worldgen/biome/has_feature/maple_tree.json"
+hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
+
+[[files]]
+file = "datapacks/VastCraft/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/orange.json"
+hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
+
+[[files]]
+file = "datapacks/VastCraft/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/red.json"
+hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
 file = "datapacks/VastCraft/data/autumnity/tags/worldgen/biome/is_autumnal.json"
-hash = "2aedfbf9a4437655d3ba4e20fb32e29ff777948bbb7e91ef4c309410340b7afb"
+hash = "70dc062f82bf34a5d9a65617c352c733f35c5347b13f2173dc2a18f83fb0b4dd"
 
 [[files]]
 file = "datapacks/VastCraft/data/c/tags/hidden_from_recipe_viewers.json"
@@ -102,7 +114,7 @@ hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
 file = "datapacks/VastCraft/pack.mcmeta"
-hash = "6476b58ddf2b8ec2190753b148ed8c16afeb387f5d120108ef1ad171a916daa2"
+hash = "9d2bede0252a3223ce28fb9b56f7d50a8c59b8987060d9809f558f3fccf94580"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -132,11 +144,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
-metafile = true
-
-[[files]]
-file = "mods/atmospheric.pw.toml"
-hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
 metafile = true
 
 [[files]]
@@ -172,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "3a59ca21bc4e6e179ce53231b0a7bb56a2ca5f8304500f9ee202e476b1a4e719"
+metafile = true
+
+[[files]]
+file = "mods/cat-loaf.pw.toml"
+hash = "dd535f37be20910d87e64613eedacfdfcf45965ccac594a7e5b3236b3940bb4f"
 metafile = true
 
 [[files]]
@@ -250,11 +262,6 @@ hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "6fa96954852997f4d6f8eb0fba02143dd1030f6183cf961dea0eeaa830f71ef1"
-metafile = true
-
-[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "88afea11493965d50807089deb03f489fa176cc47e670833971481dfd6e18fb9"
 metafile = true
@@ -330,8 +337,18 @@ hash = "c973936c8b9750daf0296baa21befb407640a186ec4eb433be840d1dddccc5a3"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "398f6244737e2ab8b9036f33aa70c3bddb4389110257ee186b168f211a2a5b73"
 metafile = true
 
 [[files]]
@@ -365,8 +382,18 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "438075bcc066211a734e0f81b1e1ba2efbd419f9f00d1554659a99290b5013dd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
 metafile = true
 
 [[files]]
@@ -410,11 +437,6 @@ hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
-metafile = true
-
-[[files]]
 file = "mods/nightosphere.pw.toml"
 hash = "efab624bab38dcbf516cf364615a65f063e047d90015c878d4d6b9494e4c77b3"
 metafile = true
@@ -455,6 +477,21 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/rearm.pw.toml"
+hash = "2f136034f74bdbb671000f91c001e0d7a15836aaa815c4161ce3f23664fab1d6"
+metafile = true
+
+[[files]]
 file = "mods/recall-potion-neoforge.pw.toml"
 hash = "13b973a58b94b7369969d764438b6078ffb5ad7fda713907ef3296d42303f649"
 metafile = true
@@ -475,6 +512,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/slag-n-embers.pw.toml"
+hash = "0697a20858cc329fd1c4a2689817ed94eac4d434b3da35d6d600cabc2cfc7fae"
+metafile = true
+
+[[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "831caaf891645de78628c8c84c3402f99b997cfabcde817b047b9d41840401f0"
 metafile = true
@@ -482,6 +524,16 @@ metafile = true
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "dabf477dc67da8c7d3e8ba42c2b504f55ec5df4e2ef61f7f52cb243ee083f1d1"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
@@ -515,11 +567,6 @@ hash = "6492fb8f56b6196be9dc7d84495ba301039c95a42221c4a71f346f5a42a7fd0a"
 metafile = true
 
 [[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "0f74c0482d37880d5efbf6faca515874edba20031438e8e69851741d4a1b242f"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "9410f7355aad5a56812eb6b1bf8bc3b52d8e882255a91c9d795dda02aab38b26"
 metafile = true
@@ -545,6 +592,11 @@ hash = "e2893ed7fe934d545b80c54da0cdc24bc887cb72ba78445c197738376af165eb"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "1cc541860a49f9ab28fddc9ad00c824799ffede2f7a68dc94efe63330a574f20"
 metafile = true
@@ -560,16 +612,6 @@ hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
 metafile = true
 
 [[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
-metafile = true
-
-[[files]]
 file = "mods/vanillacookbook.pw.toml"
 hash = "6cb2859a7ec90d75b493f6c21a57c1fe7ae79fd222dd837cf5898f50e30fe8b7"
 metafile = true
@@ -577,11 +619,6 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "7c1f4d8a18197e03e11c68dd2b10b97eb40444eb4d53121fa4c3d0686773f58c"
-metafile = true
-
-[[files]]
-file = "mods/woodworks.pw.toml"
-hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
 
 [[files]]
@@ -598,6 +635,10 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "fe595d64e05130cd1dfa24bc6a9321102f14b663901ef356e1f32a01a7efc4e9"
 
 [[files]]
 file = "resourcepacks/VastCraft/assets/autumnity/lang/en_us.json"
@@ -689,9 +730,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/swzos-font!.pw.toml"
 hash = "f97c8d3a83df35f7908a6e6a93b56c934708c6d7abbccef24fd8610e5429ecef"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true

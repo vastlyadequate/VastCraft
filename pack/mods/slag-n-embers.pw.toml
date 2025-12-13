@@ -1,0 +1,14 @@
+name = "Slag n' Embers"
+filename = "Slag-n-Embers-1.21.1-1.0.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/56bnCCwq/versions/d8Ke07XG/Slag-n-Embers-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "8367415016344cce8627c01bf1381e69f8b83ad7090cd705793d30b6e4fce36f5dc9e44917565362d00f221e3aeb6f3b6eb8391ef08742beed56a5e0a4be7014"
+
+[update]
+[update.modrinth]
+mod-id = "56bnCCwq"
+version = "d8Ke07XG"

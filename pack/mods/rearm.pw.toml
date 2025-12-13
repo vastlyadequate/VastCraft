@@ -1,0 +1,13 @@
+name = "ReArm: Combat Overhaul"
+filename = "rearm-2.4.13+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHzN2FGz/versions/aUGTDZfr/rearm-2.4.13%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "582baeeb65d686339f3d9774c4d0027136f1f6d266425113ac70ef0463fbea901cf495d2b21b09874cded99a0720431132c21561e2a5268cc9ab7501be66e05e"
+
+[update]
+[update.modrinth]
+mod-id = "NHzN2FGz"
+version = "aUGTDZfr"
