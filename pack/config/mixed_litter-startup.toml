@@ -17,7 +17,7 @@
 	#Entities that should use the rabbit remodel
 	rabbits = ["minecraft:rabbit"]
 	#If the sheep remodel and texture variants are enabled
-	sheepRemodel = false
+	sheepRemodel = true
 	#Entities that should use the sheep remodel
 	sheep = ["minecraft:sheep"]
 	#If the squid remodel and texture variants are enabled
