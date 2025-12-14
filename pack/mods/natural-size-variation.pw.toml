@@ -1,0 +1,13 @@
+name = "Natural Size Variation"
+filename = "natural_size_variation-1.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/20mpneeq/versions/OcCdvz4F/natural_size_variation-1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "471fd1b096287b0666456743c873f69570b8e5353e4a5211c49937c55d14efdc62a8887a76ba7ed9973d57b8b030d9d8c1c0cc02ad36549d2a4f809294677dc6"
+
+[update]
+[update.modrinth]
+mod-id = "20mpneeq"
+version = "OcCdvz4F"

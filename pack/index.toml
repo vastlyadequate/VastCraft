@@ -6,7 +6,7 @@ hash = "7a0ee3e42e2d05aa59562a0ef36a2ed7b5df53bf2370d6a83c5e17d00533f119"
 
 [[files]]
 file = "config/emi.css"
-hash = "2087f452a126df40165b990785ddf45735350f0557ecc6e3e55a4b3c32a69af5"
+hash = "c1f2ad216261d67a6aaa6fb6d58f0fd67fb16d58fda8014f3a07939242abe705"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -34,7 +34,7 @@ hash = "7a25cd0e90d60b83d89276e9d40ead8c676444ff3e14c570c47cb7e0d8c2eb6e"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
-hash = "b2ef8dbf05cba2977651a34ba34ac850edb90615a52cc3ee1aeda6b93ab0d8d6"
+hash = "10565c619fee37e699cee6c684bf9e7028e30103f0de22a066e508cf7f350707"
 
 [[files]]
 file = "config/paxi/datapacks/vastcraft/pack.mcmeta"
@@ -149,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/autumnity.pw.toml"
 hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
+metafile = true
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
 metafile = true
 
 [[files]]
@@ -402,11 +407,6 @@ hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
-metafile = true
-
-[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "35060e4af7f66f5eac84b4b8be30bbe3d7b5e1e6c1c598b129bb8bc33e2d5aaa"
 metafile = true
@@ -437,8 +437,18 @@ hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
+file = "mods/natural-size-variation.pw.toml"
+hash = "80d69adebb67eb1a98296c18e1cbaa728f261e7832f23030055a14736e0c12ec"
+metafile = true
+
+[[files]]
 file = "mods/nightosphere.pw.toml"
 hash = "efab624bab38dcbf516cf364615a65f063e047d90015c878d4d6b9494e4c77b3"
+metafile = true
+
+[[files]]
+file = "mods/nirvana-mod.pw.toml"
+hash = "666920eb8665453228f35494873a5811f0f51da12428d248799b9c748e5788d6"
 metafile = true
 
 [[files]]
