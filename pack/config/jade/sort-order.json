@@ -1,4 +1,6 @@
 {
+  "exposure:lightroom": null,
+  "exposure:photograph_frame": null,
   "item-descriptions:block_descriptions": null,
   "item-descriptions:entity_descriptions": null,
   "jade:block_face": null,
@@ -60,5 +62,8 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }
