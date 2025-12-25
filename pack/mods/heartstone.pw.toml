@@ -1,13 +1,13 @@
 name = "Heartstone"
-filename = "heartstone-1.21-1.3.0-neoforge.jar"
+filename = "heartstone-1.21-1.3.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NBY6AFje/versions/omBGj9Om/heartstone-1.21-1.3.0-neoforge.jar"
+url = "https://cdn.modrinth.com/data/NBY6AFje/versions/z39Uj84c/heartstone-1.21-1.3.1-neoforge.jar"
 hash-format = "sha512"
-hash = "df9f6d897d473deeef1b073bf044e3697805abdcc59354bc3216d006b1388a3acf6e3026ea734f49e2eb6fb06116c9863247afcc38db62b8deb3d3ca150029f7"
+hash = "dac7b6769da29221d67785e2391033401bc0bf73e371e7388d16398d357a2484770412e57882922c9218333693caf3869e0b1fdf2aaeb8364801698fb99c8a91"
 
 [update]
 [update.modrinth]
 mod-id = "NBY6AFje"
-version = "omBGj9Om"
+version = "z39Uj84c"
