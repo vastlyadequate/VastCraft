@@ -8,10 +8,6 @@
 			{
 				"namespace": "greeneries", 
 				"path": "worldgen/placed_feature/patch_cattail.json"
-			},
-			{
-				"namespace": "autumnity",
-				"path": "blueprint/modded_biome_slices/.*"
 			}
 		]
 	}

@@ -1,9 +1,6 @@
 {
   "replace": false,
   "values": [
-    "nomansland:cattail",
-	"greeneries:cattail",
-	"upgrade_aquatic:beachgrass",
-	"upgrade_aquatic:tall_beachgrass"
+	"greeneries:cattail"
   ]
 }
