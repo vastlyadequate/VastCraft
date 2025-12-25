@@ -11,7 +11,7 @@
 			},
 			{
 				"namespace": "minecraft", 
-				"path": "recipe/wooden_.*"
+				"path": "recipe/wooden_.*|recipe/copper_nugget.*"
 			}
 		]
 	}
