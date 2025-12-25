@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "g g",
+		"glg"
+    ],
+    "key": {
+        "g": {
+            "item": "create:golden_sheet"
+        },
+        "l": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "id": "minecraft:golden_boots",
+        "count": 1
+    }
+}

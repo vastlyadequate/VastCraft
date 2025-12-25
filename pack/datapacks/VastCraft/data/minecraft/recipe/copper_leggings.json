@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+		"clc",
+		"c c"
+    ],
+    "key": {
+        "c": {
+            "item": "create:copper_sheet"
+        },
+        "l": {
+            "item": "minecraft:leather_leggings"
+        }
+    },
+    "result": {
+        "id": "minecraft:copper_leggings",
+        "count": 1
+    }
+}

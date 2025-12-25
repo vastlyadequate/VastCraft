@@ -1,5 +1,6 @@
 {
-  "values": [
-    "minecraft:flint"
-  ]
+	"replace": true,
+	"values": [
+		"minecraft:flint"
+	]
 }

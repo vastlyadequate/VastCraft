@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"ccc",
+		"clc"
+    ],
+    "key": {
+        "c": {
+            "item": "create:copper_sheet"
+        },
+        "l": {
+            "item": "minecraft:leather_helmet"
+        }
+    },
+    "result": {
+        "id": "minecraft:copper_helmet",
+        "count": 1
+    }
+}

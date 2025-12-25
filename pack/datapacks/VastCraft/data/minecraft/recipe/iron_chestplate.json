@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ili",
+		"iii",
+		"iii"
+    ],
+    "key": {
+        "i": {
+            "item": "create:iron_sheet"
+        },
+        "l": {
+            "item": "minecraft:leather_chestplate"
+        }
+    },
+    "result": {
+        "id": "minecraft:iron_chestplate",
+        "count": 1
+    }
+}
