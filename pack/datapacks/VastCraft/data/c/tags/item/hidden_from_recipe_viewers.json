@@ -1,9 +1,11 @@
 {
   "replace": false,
   "values": [
-    "nomansland:cattail",
 	"greeneries:cattail",
-	"upgrade_aquatic:beachgrass",
-	"upgrade_aquatic:tall_beachgrass"
+	"minecraft:wooden_axe",
+	"minecraft:wooden_pickaxe",
+	"minecraft:wooden_shovel",
+	"minecraft:wooden_hoe",
+	"minecraft:wooden_sword"
   ]
 }

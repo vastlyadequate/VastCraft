@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-	"greeneries:cattail"
+	"greeneries:cattail",
+	"minecraft:wooden_pickaxe",
+	"minecraft:wooden_axe",
+	"minecraft:wooden_hoe",
+	"minecraft:wooden_shovel",
+	"minecraft:wooden_sword"
   ]
 }

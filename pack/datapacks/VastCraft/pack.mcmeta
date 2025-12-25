@@ -8,6 +8,10 @@
 			{
 				"namespace": "greeneries", 
 				"path": "worldgen/placed_feature/patch_cattail.json"
+			},
+			{
+				"namespace": "minecraft", 
+				"path": "recipe/wooden_.*"
 			}
 		]
 	}
