@@ -4,7 +4,7 @@
 	/**
 	 * Whether EMI is enabled and visible.
 	 */
-	enabled: false;
+	enabled: true;
 
 	/**
 	 * Whether cheating in items is enabled.
@@ -29,7 +29,7 @@
 	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
-	search-tooltip-by-default: true;
+	search-tooltip-by-default: false;
 
 	/**
 	 * Whether normal search queries should include the mod name.
@@ -66,7 +66,7 @@
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
 	 */
-	append-item-mod-id: true;
+	append-item-mod-id: false;
 
 	/**
 	 * Prevents recipes being quick crafted from shifting around under the cursor.
