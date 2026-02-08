@@ -1,0 +1,43 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "c67d8fb4ba396442971b58c35c850fd5dfc49eee82d64261726c6890aa05bb70"
+
+[[files]]
+file = "README.md"
+hash = "7713fb51f3375859e94d373112e3906cc826aff32d98588ff4994ac469c70659"
+
+[[files]]
+file = "config/emi.css"
+hash = "0be14452b21abac082c8275cb1a9f8a829cf4c4abb1be63c992e4285176e682d"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "10a0bacd2140cf0790d5716f25578966eeacef98379ba6f437b6bc47e9f3612c"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "c4aebed12472e39ab28dae062ac5e77b1ac92ff4208aa858aec51bc691c950fc"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
