@@ -1,0 +1,13 @@
+name = "Toil and Trouble"
+filename = "toil_and_trouble-1.4.5+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/67iT29W2/versions/aFdsTvVH/toil_and_trouble-1.4.5%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8bfe7d2048a73ca8784918a3877fa1e3cbbb4c267644e0081ab29f8ce748dd0ecf54c87aab7a24a62aa16b2206807a437356a63f797c0a0f3a38c773edfcc426"
+
+[update]
+[update.modrinth]
+mod-id = "67iT29W2"
+version = "aFdsTvVH"
