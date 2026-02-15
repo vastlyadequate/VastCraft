@@ -316,6 +316,11 @@ hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
 metafile = true
 
 [[files]]
+file = "mods/underground-rivers.pw.toml"
+hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
+metafile = true
+
+[[files]]
 file = "mods/vanity-aesthetic-armory.pw.toml"
 hash = "edf7415f0625882ed41f9d2e87775117088dd102e37e35daf73751336c003272"
 metafile = true
